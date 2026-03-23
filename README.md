@@ -44,3 +44,4 @@ Open `index.html` in your browser, or use VS Code Live Server.
 - Pagination or infinite scroll
 - Hide API calls behind a backend/proxy to keep keys private
 
+See detailed project specs in [spec.md](./spec.md)
